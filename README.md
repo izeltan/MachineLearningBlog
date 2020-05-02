@@ -5,8 +5,20 @@
  
 ##Table of Contents
 
-Introduction
-Web Scrapping Homework
-Percepteron Exercises
-Percepteron Algorithm Homework
+* [Introduction](#introduction)  
+* [Web Scrapping Homework](#web-scrapping-homework)  
+* [Percepteron Exercises](#percepteron-exercises)  
+* [Percepteron Algorithm Homework](#percepteron-algortihm-homework)
+
+<br/>
+
+<br/>  
+
+## Introduction  
+This gitHub page is created to submit and share the homeworks, projects & exercises have been done in Machine Learning Course which is instructed by Özgün Balaban.
+<br/>
+
+<br/>  
+
+
 
