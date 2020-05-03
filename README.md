@@ -37,12 +37,15 @@ For the second week we made a refresher on Python. Using Anaconda with Python 3.
 
 ## Week 3
 For the third week we work on Numpy and Python refresher.
+<br/>
 **[Go to work](https://github.com/izeltan/week3)** 
 <br/>
 <br/>  
 ## Week 4
 Data scraping 
+<br/>
 **[Go to class file](https://github.com/ITU-MBL-ML/week4)**
+<br/>
 **[Go to homework.](https://github.com/izeltan/HW1forWEEK5)**
 <br/>
 <br/> 
