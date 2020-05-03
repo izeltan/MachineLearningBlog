@@ -50,7 +50,9 @@ Data scraping
 <br/>
 <br/> 
 ## Week 5
-
+Unsupervised Learning
+<br/>
+**[Go to class file](https://github.com/ITU-MBL-ML/week-5)**
   <br/>
 <br/>
 ## Week 6
@@ -62,15 +64,15 @@ Data scraping
 <br/>
 <br/>
 ## Week 8
-
+Linear Regression / Neural Network examples
 <br/>
 <br/>
 ## Week 9
-
+Generative models 
 <br/>
 <br/>
 ## Week 10
-
+Projects
 <br/>
 <br/>
 
