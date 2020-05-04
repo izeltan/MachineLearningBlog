@@ -15,9 +15,6 @@
 * [Week 8](#week-8) 
 * [Week 9](#week-9) 
 * [Week 10](#week-10) 
-* [Web Scrapping Homework](#web-scrapping-homework)  
-* [Percepteron Exercises](#percepteron-exercises)  
-* [Percepteron Algorithm Homework](#percepteron-algortihm-homework)
 <br/>
 <br/> 
 
@@ -46,6 +43,7 @@ Data scraping
 <br/>
 **[Go to class file](https://github.com/ITU-MBL-ML/week4)**
 <br/>
+Homework1:Web Scrapping
 **[Go to homework.](https://github.com/izeltan/HW1forWEEK5)**
 <br/>
 <br/> 
@@ -60,19 +58,26 @@ Unsupervised Learning
 <br/>
 <br/>
 ## Week 7
-
+Percepteron Exercises
+Homework2:Percepteron Algorithm Homework
+<br/>
+**[Go to work](https://drive.google.com/drive/folders/1mnY1fNAEW6-geDTUJwoHqYQXlYuRAUVB)** 
 <br/>
 <br/>
 ## Week 8
 Linear Regression / Neural Network examples
 <br/>
+**[Go to work](https://drive.google.com/drive/folders/1yfBhPV10GyWBljTE1wC-EhjhWaAr_8Es)** 
+<br/>
 <br/>
 ## Week 9
 Generative models 
 <br/>
+**[Go to work](https://drive.google.com/drive/folders/1eMOs4YMBJCT-a_DhIKuzL4bxuXAeQvQZ)** 
+<br/>
 <br/>
 ## Week 10
-Projects
+Term Project: Generating art concept for the games 
 <br/>
 <br/>
 
