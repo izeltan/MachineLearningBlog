@@ -77,7 +77,8 @@ Generative models
 <br/>
 <br/>
 ## Week 10
-Term Project: Generating art concept for the games 
+Term Project: Generating art concept for the games
+**[Go to work](https://drive.google.com/drive/u/0/folders/1z6CtOTCjI5LaBKrkJvoKizOdQzfS6I48)** 
 <br/>
 <br/>
 
