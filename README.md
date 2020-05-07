@@ -80,7 +80,7 @@ Generative models
 <br/>
 ## Week 10
 Term Project: Generating art concept for the games
-![Image](/ımages/game.jpg)
+![Image](MachineLearningBlog/ımages/game.jpg)
 <br/>
 **[Go to work](https://drive.google.com/drive/u/0/folders/1z6CtOTCjI5LaBKrkJvoKizOdQzfS6I48)** 
 <br/>
