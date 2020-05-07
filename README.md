@@ -60,6 +60,7 @@ Unsupervised Learning
 ## Week 7
 Percepteron Exercises
 Homework2:Percepteron Algorithm Homework
+<br/>
 **[Go to homework/Perceptron.](https://github.com/izeltan/MachineLearningBlog/tree/master/Homeworks)**
 <br/>
 **[Go to work](https://drive.google.com/drive/folders/1mnY1fNAEW6-geDTUJwoHqYQXlYuRAUVB)** 
