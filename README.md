@@ -44,7 +44,7 @@ Data scraping
 **[Go to class file](https://github.com/ITU-MBL-ML/week4)**
 <br/>
 Homework1:Web Scrapping
-**[Go to homework.](https://github.com/izeltan/HW1forWEEK5)**
+**[Go to homework/Data Scrapping.](https://github.com/izeltan/HW1forWEEK5)**
 <br/>
 <br/> 
 ## Week 5
@@ -60,6 +60,7 @@ Unsupervised Learning
 ## Week 7
 Percepteron Exercises
 Homework2:Percepteron Algorithm Homework
+**[Go to homework/Perceptron.](https://github.com/izeltan/MachineLearningBlog/tree/master/Homeworks)**
 <br/>
 **[Go to work](https://drive.google.com/drive/folders/1mnY1fNAEW6-geDTUJwoHqYQXlYuRAUVB)** 
 <br/>
@@ -78,6 +79,7 @@ Generative models
 <br/>
 ## Week 10
 Term Project: Generating art concept for the games
+<br/>
 **[Go to work](https://drive.google.com/drive/u/0/folders/1z6CtOTCjI5LaBKrkJvoKizOdQzfS6I48)** 
 <br/>
 <br/>
